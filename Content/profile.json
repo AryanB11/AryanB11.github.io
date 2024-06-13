@@ -30,13 +30,13 @@
     "Title": "System Proposal",
     "Desc": "CSC3150's First Project.<br><br>The project is a system proposal for Yesteryear, an immersive cinematic experience application for the Apple Vision Pro headset. It includes sections on the project's vision, feasibility assessment, functional and non-functional requirements, use-case models, and system evolution to ensure a comprehensive and engaging user experience.",
     "GitHubRepo": "Bataan Aryan - System Proposal Part 1+2 - Yesteryear - v1.docx",
-    "MainImage": "sp.png",
+    "MainImage": "photo2.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "System Specification",
     "Desc": "CSC3150's Final Project.<br><br>The project is a system specification for Yesteryear, an immersive cinematic application for the Apple Vision Pro headset. It details the system's evolution, structural model, architectural design, user interface requirements, and security measures, aiming to deliver a premium theatre-like experience at home.",
     "GitHubRepo": "Bataan Aryan - System Specification - Yesteryear - v1.docx",
-    "MainImage": "ss.png",
+    "MainImage": "photo.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
