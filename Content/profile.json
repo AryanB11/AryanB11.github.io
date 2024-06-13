@@ -37,6 +37,6 @@
     "Title": "System Specification",
     "Desc": "CSC3150's Final Project.<br><br>The project is a system specification for Yesteryear, an immersive cinematic application for the Apple Vision Pro headset. It details the system's evolution, structural model, architectural design, user interface requirements, and security measures, aiming to deliver a premium theatre-like experience at home.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "photo.png",
+    "MainImage": "ss.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   }
