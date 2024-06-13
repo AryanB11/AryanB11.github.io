@@ -10,8 +10,8 @@
   "EMail": "zendejor@spu.edu",
   "Phone": "(206) 555-5555",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "LinkedIn": "https://www.linkedin.com/in/aryan-bataan",
+  "GitHub": "https://https://github.com/AryanB11"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
@@ -30,14 +30,14 @@
     "Title": "System Proposal",
     "Desc": "CSC3150's First Project.<br><br>The project is a system proposal for Yesteryear, an immersive cinematic experience application for the Apple Vision Pro headset. It includes sections on the project's vision, feasibility assessment, functional and non-functional requirements, use-case models, and system evolution to ensure a comprehensive and engaging user experience.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "photo.png",
+    "MainImage": "sp.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "System Specification",
     "Desc": "CSC3150's Final Project.<br><br>The project is a system specification for Yesteryear, an immersive cinematic application for the Apple Vision Pro headset. It details the system's evolution, structural model, architectural design, user interface requirements, and security measures, aiming to deliver a premium theatre-like experience at home.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "photo2.png",
+    "MainImage": "ss.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
