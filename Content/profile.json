@@ -2,7 +2,7 @@
 "About": {
   "Name": "Aryan Bataan",
   "Currently": "Computer Science Student",
-  "Headshot": "headshot.png",
+  "Headshot": "IMG_3552.jpg",
   "Thumbnail": "student-logo.webp",
   "AboutText": "Hi, I am Aryan Bataan. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
@@ -10,7 +10,7 @@
   "EMail": "zendejor@spu.edu",
   "Phone": "(206) 555-5555",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "www.linkedin.com/in/aryan-bataan",
+  "LinkedIn": "https://linkedin.com",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
@@ -29,12 +29,29 @@
 "Project1": {
     "Title": "System Proposal",
     "Desc": "CSC3150's First Project.<br><br>The project is a system proposal for Yesteryear, an immersive cinematic experience application for the Apple Vision Pro headset. It includes sections on the project's vision, feasibility assessment, functional and non-functional requirements, use-case models, and system evolution to ensure a comprehensive and engaging user experience.",
-    "MainImage": "sp.png",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "photo.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "System Specification",
     "Desc": "CSC3150's Final Project.<br><br>The project is a system specification for Yesteryear, an immersive cinematic application for the Apple Vision Pro headset. It details the system's evolution, structural model, architectural design, user interface requirements, and security measures, aiming to deliver a premium theatre-like experience at home.",
-    "MainImage": "ss.png",
+    "GitHubRepo": "https://github.com",
+    "MainImage": "photo2.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
+  "Project3": {
+    "Title": "Interesting Project 3",
+    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
+  }
+}
