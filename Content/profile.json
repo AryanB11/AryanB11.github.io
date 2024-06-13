@@ -15,9 +15,9 @@
   "Major": "Computer Science",
   "Graduation": "June 2025",
   "EducationText": "I'm currently pursuing a computer science internship",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Student",
-  "EmploymentText": "I'm also working as a field technician at Boeing",
+  "Employment": "Boeing",
+  "Role": "Field Technician",
+  "EmploymentText": "I'm working as a field technician at Boeing",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
 },
 "Project1": {
