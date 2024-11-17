@@ -26,20 +26,20 @@
     "Title": "Create and Evaluate an Expression Tree",
     "Desc": "CSC2431 Lab.<br><br>In this lab, I created an expression tree from a postfix arithmetic expression, focusing on dynamic memory allocation and tree traversal techniques. I implemented Inorder, Preorder, and Postorder traversals to explore the expression in different notations and evaluated the arithmetic expression stored in the tree. Additionally, I generated a detailed step-by-step JSON output showing the evaluation process, highlighting how values propagate through the tree structure. This lab deepened my understanding of binary trees and their practical applications in data representation and computation.",
     "GitHubRepo": "https://github.com/csc2431-spring2023/postfix-to-expression-tree-AryanB11",
-    "MainImage": "photo.png",
+    "MainImage": "expr-tree2.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "System Specification",
-    "Desc": "CSC3150's Final Project.<br><br>The project is a system specification for Yesteryear, an immersive cinematic application for the Apple Vision Pro headset. It details the system's evolution, structural model, architectural design, user interface requirements, and security measures, aiming to deliver a premium theatre-like experience at home.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Infix to Postfix",
+    "Desc": "CSC2431 Lab.<br><br>In this lab, I developed a program to convert arithmetic expressions from infix notation, commonly used by humans, to postfix notation, which is more efficient for computers to process. Using the C++ Standard Template Library (STL) stack and implementing a general algorithm, I created a class to handle the conversion process. This involved parsing and applying operator precedence, handling parentheses, and constructing the postfix expression. Through this lab, I enhanced my understanding of stack-based algorithms, class design, and operator precedence, solidifying key concepts in data structures and algorithm implementation.",
+    "GitHubRepo": "https://github.com/csc2431-spring2023/infix-to-postfix-AryanB11",
     "MainImage": "photo2.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+    "Title": "Implementing the Abstract Data Type List",
+    "Desc": "CSC2431 Lab.<br><br>In this lab, I implemented various data structures to explore the practical application of Abstract Data Types (ADT) for lists. This included developing the DoubleLinkedList class to represent an ADT List using a doubly linked list, the VSArray class to implement a dynamically resizable array-based list, and the SortedDoubleLinkedList class, a specialized version of the doubly linked list designed to maintain sorted order. Through this lab, I honed my skills in pointer manipulation, dynamic memory management, and the principles of inheritance while reinforcing my understanding of ADT List implementations.",
+    "GitHubRepo": "https://github.com/csc2431-spring2023/list-AryanB11",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
