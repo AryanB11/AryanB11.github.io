@@ -11,16 +11,16 @@
   "GitHub": "github.com/AryanB11"
 },
 "Experience": {
-  "ExperienceText": "I'm currently a computer science student in search of an internship",
+  "ExperienceText": "I'm currently a computer science student ",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2025",
+  "Graduation": "Expected to gradute in June 2025",
   "EducationText": "Computer Science Student",
-  "Employment": "Boeing",
+  "Employment": "Boeing (January 2024 - August 2024)",
   "Role": "Field Technician",
-  "EmploymentText": "I'm currently ",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "EmploymentText": "During my time at Boeing, I was tasked with re-imaging laptops and desktops to ensure they were configured correctly for end-users. This involved preparing systems with the latest operating systems and required software, tailored to specific departmental needs. Alongside this, I managed computer refresh equipment swaps, where outdated hardware was replaced with new, optimized devices. These swaps were seamless transitions for users, ensuring minimal disruption to their workflow.",
+  "Skills": ["Python, JavaScript, HTML/CSS, C++, React Native, C#, Java, C, Prolog, Go, NodeJS"],
+  "SkillsText": "My programming experience spans a diverse range of languages, each contributing to my growth as a developer. Python has been a cornerstone for data analysis, machine learning, and automation, allowing me to solve complex problems with simplicity and efficiency. JavaScript and NodeJS are central to my expertise in web development, enabling me to build dynamic interfaces and scalable back-end systems. While HTML/CSS provide the structural foundation for web applications, React Native extends my capabilities to create cross-platform mobile solutions. I’ve tackled high-performance challenges with C++ and explored memory management and system-level programming with C, while Java and C# have equipped me to develop scalable enterprise and Android applications. Go has been invaluable for its concurrency features, especially in building modern, efficient systems, and Prolog offered insights into logical programming and AI problem-solving. Each language is a unique tool I’ve honed to adapt to the challenges of software development.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
