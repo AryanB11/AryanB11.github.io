@@ -33,14 +33,14 @@
     "Title": "Infix to Postfix",
     "Desc": "CSC2431 Lab.<br><br>In this lab, I developed a program to convert arithmetic expressions from infix notation, commonly used by humans, to postfix notation, which is more efficient for computers to process. Using the C++ Standard Template Library (STL) stack and implementing a general algorithm, I created a class to handle the conversion process. This involved parsing and applying operator precedence, handling parentheses, and constructing the postfix expression. Through this lab, I enhanced my understanding of stack-based algorithms, class design, and operator precedence, solidifying key concepts in data structures and algorithm implementation.",
     "GitHubRepo": "https://github.com/csc2431-spring2023/infix-to-postfix-AryanB11",
-    "MainImage": "photo2.png",
+    "MainImage": "Infix.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Implementing the Abstract Data Type List",
     "Desc": "CSC2431 Lab.<br><br>In this lab, I implemented various data structures to explore the practical application of Abstract Data Types (ADT) for lists. This included developing the DoubleLinkedList class to represent an ADT List using a doubly linked list, the VSArray class to implement a dynamically resizable array-based list, and the SortedDoubleLinkedList class, a specialized version of the doubly linked list designed to maintain sorted order. Through this lab, I honed my skills in pointer manipulation, dynamic memory management, and the principles of inheritance while reinforcing my understanding of ADT List implementations.",
     "GitHubRepo": "https://github.com/csc2431-spring2023/list-AryanB11",
-    "MainImage": "P3Main.png",
+    "MainImage": "List.png",
     "DetailImages": []
   },
   "Project4": {
