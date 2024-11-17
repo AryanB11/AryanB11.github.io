@@ -20,7 +20,7 @@
   "EmploymentText": "During my time at Boeing, I was tasked with re-imaging laptops and desktops to ensure they were configured correctly for end-users. This involved preparing systems with the latest operating systems and required software, tailored to specific departmental needs. Alongside this, I managed computer refresh equipment swaps, where outdated hardware was replaced with new, optimized devices. These swaps were seamless transitions for users, ensuring minimal disruption to their workflow.",
   "Skills": ["Python, JavaScript, HTML/CSS, C++, React Native, C#, Java, C, Prolog, Go, NodeJS"],
   "SkillsText": "My programming experience spans a diverse range of languages, each contributing to my growth as a developer. Python has been a cornerstone for data analysis, machine learning, and automation, allowing me to solve complex problems with simplicity and efficiency. JavaScript and NodeJS are central to my expertise in web development, enabling me to build dynamic interfaces and scalable back-end systems. While HTML/CSS provide the structural foundation for web applications, React Native extends my capabilities to create cross-platform mobile solutions. I’ve tackled high-performance challenges with C++ and explored memory management and system-level programming with C, while Java and C# have equipped me to develop scalable enterprise and Android applications. Go has been invaluable for its concurrency features, especially in building modern, efficient systems, and Prolog offered insights into logical programming and AI problem-solving. Each language is a unique tool I’ve honed to adapt to the challenges of software development.",
-  "Resume": "student-resume.pdf"  
+  "Resume": "Resume-1.pdf"  
 },
 "Project1": {
     "Title": "Create and Evaluate an Expression Tree",
@@ -41,7 +41,7 @@
     "Desc": "CSC2431 Lab.<br><br>In this lab, I implemented various data structures to explore the practical application of Abstract Data Types (ADT) for lists. This included developing the DoubleLinkedList class to represent an ADT List using a doubly linked list, the VSArray class to implement a dynamically resizable array-based list, and the SortedDoubleLinkedList class, a specialized version of the doubly linked list designed to maintain sorted order. Through this lab, I honed my skills in pointer manipulation, dynamic memory management, and the principles of inheritance while reinforcing my understanding of ADT List implementations.",
     "GitHubRepo": "https://github.com/csc2431-spring2023/list-AryanB11",
     "MainImage": "List.png",
-    "DetailImages": []
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project4": {
     "Title": "",
