@@ -11,22 +11,21 @@
   "GitHub": "github.com/AryanB11"
 },
 "Experience": {
-  "ExperienceText": "I'm currently a computer science student ",
+  "ExperienceText": "I am currently pursuing a Bachelor of Science in Computer Science at Seattle Pacific University. Since starting my academic journey, I have focused on gaining practical experience in the modern workplace, developing proficiency in multiple programming languages, and maintaining a strong balance between academics and extracurricular activities.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "Expected to gradute in June 2025",
-  "EducationText": "Computer Science Student",
   "Employment": "Boeing (January 2024 - August 2024)",
   "Role": "Field Technician",
   "EmploymentText": "During my time at Boeing, I was tasked with re-imaging laptops and desktops to ensure they were configured correctly for end-users. This involved preparing systems with the latest operating systems and required software, tailored to specific departmental needs. Alongside this, I managed computer refresh equipment swaps, where outdated hardware was replaced with new, optimized devices. These swaps were seamless transitions for users, ensuring minimal disruption to their workflow.",
   "Skills": ["Python, JavaScript, HTML/CSS, C++, React Native, C#, Java, C, Prolog, Go, NodeJS"],
-  "SkillsText": ".",
+  "SkillsText": "My programming experience spans a diverse range of languages, each contributing to my growth as a developer. Python has been a cornerstone for data analysis, machine learning, and automation, allowing me to solve complex problems with simplicity and efficiency. JavaScript and NodeJS are central to my expertise in web development, enabling me to build dynamic interfaces and scalable back-end systems. While HTML/CSS provide the structural foundation for web applications, React Native extends my capabilities to create cross-platform mobile solutions. I’ve tackled high-performance challenges with C++ and explored memory management and system-level programming with C, while Java and C# have equipped me to develop scalable enterprise and Android applications. Go has been invaluable for its concurrency features, especially in building modern, efficient systems, and Prolog offered insights into logical programming and AI problem-solving. Each language is a unique tool I’ve honed to adapt to the challenges of software development.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "System Proposal",
-    "Desc": "CSC3150's First Project.<br><br>The project is a system proposal for Yesteryear, an immersive cinematic experience application for the Apple Vision Pro headset. It includes sections on the project's vision, feasibility assessment, functional and non-functional requirements, use-case models, and system evolution to ensure a comprehensive and engaging user experience.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Create and Evaluate an Expression Tree",
+    "Desc": "CSC2431 Lab.<br><br>In this lab, I created an expression tree from a postfix arithmetic expression, focusing on dynamic memory allocation and tree traversal techniques. I implemented Inorder, Preorder, and Postorder traversals to explore the expression in different notations and evaluated the arithmetic expression stored in the tree. Additionally, I generated a detailed step-by-step JSON output showing the evaluation process, highlighting how values propagate through the tree structure. This lab deepened my understanding of binary trees and their practical applications in data representation and computation.",
+    "GitHubRepo": "https://github.com/csc2431-spring2023/postfix-to-expression-tree-AryanB11",
     "MainImage": "photo.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
