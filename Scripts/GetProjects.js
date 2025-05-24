@@ -66,7 +66,24 @@ function updateHTML(configData) {
   } else {
     document.querySelector("#project3").style.display = "none";
   }
-  
+
+  document.querySelector("#openProject4").addEventListener("click", () => {
+  const detailContainer = document.querySelector("#pfProject4Details");
+
+  detailContainer.innerHTML = "";
+
+  configData.Project4.DetailImages.forEach((imgName) => {
+    const img = document.createElement("img");
+    img.src = "Content/".concat(imgName);
+    img.alt = "Project 4 Screenshot";
+    img.style.width = "100%";
+    img.style.marginBottom = "12px";
+    detailContainer.appendChild(img);
+  });
+
+  detailContainer.style.display = "block";
+});
+
   projectTitle = configData.Project4.Title;
   if (projectTitle) {
     document.querySelector("#pfProject4Img").src = "Content/".concat(configData.Project4.MainImage);
@@ -76,9 +93,9 @@ function updateHTML(configData) {
     if (!configData.Project4.GitHubRepo) {
       document.querySelector("#pfProject4Repo").style.display = "none";
     }
-    if (configData.Project4.DetailImages.length<1) {
-      document.querySelector("#openProject4").style.display = "none";
-    }
+    if (!configData.Project4.GitHubRepo) {
+    document.querySelector("#pfProject4Repo").style.display = "none";
+}
   } else {
     document.querySelector("#project4").style.display = "none";
   }
