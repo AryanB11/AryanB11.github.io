@@ -1,5 +1,4 @@
 import { ConfigSingleton } from "./GetProfile.js";
-let globalConfig = null;
 let configData;
 
 (async () => {
@@ -15,7 +14,6 @@ let configData;
 function updateHTML(configData) {
   let projectTitle;
   function updateHTML(configData) {
-  globalConfig = configData;
 
   document.querySelector("#pfThumbnail").src = "Content/".concat(configData.About.Thumbnail);
   document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
