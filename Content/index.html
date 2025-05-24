@@ -43,6 +43,29 @@
             height: 32px;
             vertical-align: middle;
         }
+        #modalPage {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background-color: rgba(0, 0, 0, 0.85);
+            z-index: 9999;
+            display: none;
+            padding: 40px;
+            overflow: auto;
+            color: white;
+        }
+        #imgList img {
+            max-width: 80%;
+            margin: 0 auto;
+            display: none;
+        }
+        #XOut {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            cursor: pointer;
+            font-size: 2em;
+        }
     </style>
 </head>
 <body>
@@ -75,7 +98,30 @@
             </a>
         </div>
     </section>
+
+    <section id="projects">
+        <h3>CapSource - Senior Capstone Project</h3>
+        <div id="project4">
+            <img id="pfProject4Img" src="" alt="CapSource Preview" style="width: 100%; max-width: 600px;">
+            <h4 id="pfProject4Title"></h4>
+            <p id="pfProject4Desc"></p>
+            <a id="pfProject4Repo" href="#" target="_blank">View GitHub Repo</a>
+            <br><br>
+            <button id="openProject4">See More...</button>
+        </div>
+    </section>
 </div>
+
+<!-- Modal Viewer -->
+<div id="modalPage">
+    <span id="XOut">×</span>
+    <div id="imgList"></div>
+    <button id="prev">Previous</button>
+    <button id="next">Next</button>
+</div>
+
+<!-- Your JS Module (must be type="module") -->
+<script type="module" src="./script.js"></script>
 
 </body>
 </html>
